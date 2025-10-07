@@ -4,10 +4,10 @@ A multiplayer laser tag system using Raspberry Pi Pico W microcontrollers with W
 
 This system implements a client-server architecture where laser guns act as WiFi-enabled clients that communicate with a central server to track shots and hits in real-time. The server uses timestamp matching to determine successful hits between players.
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram.PNG)
 *System circuit diagram*
 
-![Laser Tag System](images/laser_gun_system.png)
+![Laser Tag System](images/laser_gun_system.PNG)
 *Assembled laser gun system*
 
 ### Communication Protocol
